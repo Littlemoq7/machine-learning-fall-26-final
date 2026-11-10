@@ -6,3 +6,6 @@ pandas==3.1.0
 scikit-learn==1.9.1
 seaborn==0.13.2
 kagglehub==1.0.3
+torch==2.15.0
+torchvision==0.29.2
+transformers==5.22.2
